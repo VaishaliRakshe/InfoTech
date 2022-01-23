@@ -1,0 +1,8 @@
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.csproj.AssemblyReference.cache
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.AssemblyInfoInputs.cache
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.AssemblyInfo.cs
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.csproj.CoreCompileInputs.cache
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.RazorAssemblyInfo.cache
+C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\obj\Debug\net6.0\InfoTech.RazorAssemblyInfo.cs
