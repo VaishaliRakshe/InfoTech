@@ -55,12 +55,12 @@ namespace InfoTech.Controllers
 
                 foreach (var student in students)
                 {
-                    List<StuentCourse> stuentCourses = context.StuentCourses
+                    List<StudentCourse> studentCourses = context.StudentCourses
                         .Where(js => js.StudentId == student.Id)
                         .Include(js => js.Course)
                         .ToList();
 
-                    StudentDetailViewModel newDisplayStudent = new StudentDetailViewModel(student, studentCourse);
+                    StudentDetailViewModel newDisplayStudent = new StudentDetailViewModel(student, studentCourses);
                     displayStudents.Add(newDisplayStudent);
                 }
 
@@ -110,7 +110,7 @@ namespace InfoTech.Controllers
                 }
                 ViewBag.title = "Students with " + ColumnChoices[column] + ": " + value;
             }
-            ViewBag.jobs = displayStudents;
+            ViewBag.students = displayStudents;
 
             return View();
         }

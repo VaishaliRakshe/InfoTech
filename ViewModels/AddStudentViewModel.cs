@@ -1,10 +1,12 @@
 ﻿using InfoTech.Models;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.ComponentModel.DataAnnotations;
 
 namespace InfoTech.ViewModels
 {
     public class AddStudentViewModel
     {
+        [Required(ErrorMessage ="Name is not Null")]
         public string StudentName { get; set; }
 
         public int TeacherID { get; set; }

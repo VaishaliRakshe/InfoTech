@@ -4,21 +4,16 @@
     {
         public int Id { get; set; }
 
-        public string Name { get; set; }
+        public string Name { get; set; } = null!;
 
-        public Teacher Teacher { get; set; }
+        public Teacher Teacher { get; set; } = null!;
 
         public int TeacherId { get; set; }
 
-        public List<StudentCourse> StudentCourses { get; set; }
+        public List<StudentCourse> StudentCourses { get; set; } = null!;
 
-        public Student()
-        {
-        }
 
-        public Student(string name)
-        {
-            Name = name;
-        }
+
+
     }
 }

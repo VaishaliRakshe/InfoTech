@@ -9,7 +9,7 @@ namespace InfoTech.ViewModels
         public string TeacherName { get; set; }
         public string CourseText { get; set; }
 
-        public StudentDetailViewModel(Student theStudent, List<StudentCourse> studentourses)
+        public StudentDetailViewModel(Student theStudent, List<StudentCourse> studentCourses)
         {
             StudentId = theStudent.Id;
             Name = theStudent.Name;

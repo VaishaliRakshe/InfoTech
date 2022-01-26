@@ -4,18 +4,10 @@
     {
          
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Location { get; set; }
+        public string Name { get; set; } = null!;
+        public string Location { get; set; } = null!;
 
-        public Teacher()
-        {
-        }
 
-        public Teacher(string name, string location)
-        {
-            Name = name;
-            Location = location;
-        }
     }
 }
 

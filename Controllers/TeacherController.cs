@@ -33,7 +33,7 @@ namespace InfoTech.Controllers
         [HttpPost]
         public IActionResult Add(AddTeacherViewModel addTeacherViewModel)
         {
-            Teacher newEmployer = new Teacher
+            Teacher newTeacher = new Teacher()
             {
                 Name = addTeacherViewModel.Name,
                 Location = addTeacherViewModel.Location
@@ -53,7 +53,7 @@ namespace InfoTech.Controllers
                 };
                 context.Teachers.Add(newTeacher);
                 context.SaveChanges();
-                return Redirect("/Add");
+                return Redirect("/Teacher");
             }
             return View(addTeacherViewModel);
         }

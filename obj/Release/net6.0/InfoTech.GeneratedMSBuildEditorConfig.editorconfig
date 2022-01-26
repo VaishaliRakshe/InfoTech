@@ -8,37 +8,85 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InfoTech
 build_property.RootNamespace = InfoTech
-build_property.ProjectDir = C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech\
+build_property.ProjectDir = C:\Users\vaish\OneDrive\Desktop\VaishaliProject\Newcode\InfoTech\InfoTech\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vaish\OneDrive\Desktop\VaishaliProject\InfoTech\InfoTech
+build_property.MSBuildProjectDirectory = C:\Users\vaish\OneDrive\Desktop\VaishaliProject\Newcode\InfoTech\InfoTech
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/InfoTech/InfoTech/Views/Home/Index.cshtml]
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Course/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Course/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Course/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEFkZFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Home/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/InfoTech/InfoTech/Views/Home/Privacy.cshtml]
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/InfoTech/InfoTech/Views/Shared/Error.cshtml]
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/List/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/List/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Search/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/InfoTech/InfoTech/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/InfoTech/InfoTech/Views/_ViewImports.cshtml]
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Teacher/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Teacher/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Teacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/InfoTech/InfoTech/Views/_ViewStart.cshtml]
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/InfoTech/InfoTech/Views/Shared/_Layout.cshtml]
+[C:/Users/vaish/OneDrive/Desktop/VaishaliProject/Newcode/InfoTech/InfoTech/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v3k16wugyf

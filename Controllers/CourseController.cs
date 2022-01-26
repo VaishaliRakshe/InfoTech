@@ -47,7 +47,7 @@ namespace InfoTech.Controllers
 
         public IActionResult AddStudent(int id)
         {
-            Student theStudent = context.Student.Find(id);
+            Student? theStudent = context.Students.Find(id);
             List<Course> possibleCourses = context.Courses.ToList();
             AddStudentCourseViewModel viewModel = new AddStudentCourseViewModel(theStudent, possibleCourses);
             return View(viewModel);

@@ -1,16 +1,7 @@
 ﻿using InfoTech.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using InfoTech.ViewModels;
 using InfoTech.Data;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace InfoTech.Controllers
@@ -26,20 +17,23 @@ namespace InfoTech.Controllers
 
         public IActionResult Index()
         {
+            //List<Student> students = context.Students.ToList();
             List<Student> students = context.Students.Include(j => j.Teacher).ToList();
 
             return View(students);
         }
 
 
+
         public IActionResult AddStudent()
         {
-            AddStudentViewModel addStudentViewModel = new AddStudentViewModel(context.teachers.ToList(), context.Courses.ToList());
+            AddStudentViewModel addStudentViewModel = new AddStudentViewModel(context.Teachers.ToList(), context.Courses.ToList());
             return View(addStudentViewModel);
         }
+        
         [HttpPost]
 
-        public IActionResult ProcessAddJobForm(AddStudentViewModel addStudentViewModel, string[] selectedCourses)
+        public IActionResult ProcessAddStudentForm(AddStudentViewModel addStudentViewModel, string[] selectedCourses)
         {
             if (ModelState.IsValid)
             {
